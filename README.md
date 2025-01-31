@@ -1,6 +1,6 @@
-# MarketWatch Backend
+# Price Tracker Backend
 
-MarketWatch is a system that allows users to track product prices across multiple supermarkets. This backend provides a GraphQL API built with **Apollo Server**, **Prisma**, and **PostgreSQL**.
+Price Tracker is a system that allows users to track product prices across multiple supermarkets. This backend provides a GraphQL API built with **Apollo Server**, **Prisma**, and **PostgreSQL**.
 
 ## Features
 
@@ -23,8 +23,8 @@ MarketWatch is a system that allows users to track product prices across multipl
 1. Clone the repository
 
    ```
-   git clone https://github.com/yourusername/marketwatch-backend.git
-   cd marketwatch-backend
+   git clone https://github.com/zanderlan-n/price-tracker-backend
+   cd price-tracker-backend
    ```
 
 2. Install dependencies
